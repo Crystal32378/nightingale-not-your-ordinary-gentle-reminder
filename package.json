@@ -1,0 +1,12 @@
+{
+  "name": "raise-your-nightingale",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local fictional chronic-care continuity prototype. No external services.",
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "check": "node --check app.js && node --check audio.js && node --check behavior.js && node --check pet.js && node --check state.js && node --check server.cjs"
+  },
+  "engines": {"node": ">=18"}
+}

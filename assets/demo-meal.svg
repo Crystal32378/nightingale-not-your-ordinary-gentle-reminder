@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440" role="img" aria-labelledby="title desc">
+  <title id="title">Fictional meal diary sample illustration</title>
+  <desc id="desc">An original illustration of a plate with rice, vegetables and an egg. This is a demo sample, not an actual meal photograph or nutritional assessment.</desc>
+  <rect width="600" height="440" fill="#e9eadb"/>
+  <path d="M0 94H600M0 300H600" stroke="#dfe2d0" stroke-width="2"/>
+  <rect x="28" y="29" width="180" height="31" rx="15.5" fill="#173a36"/>
+  <text x="118" y="49" text-anchor="middle" fill="#fbf8ed" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">DEMO / SAMPLE</text>
+  <ellipse cx="306" cy="245" rx="174" ry="153" fill="#92a188" opacity=".12"/>
+  <circle cx="300" cy="228" r="158" fill="#fffdf4"/>
+  <circle cx="300" cy="228" r="136" fill="#f6f3e6" stroke="#e1e1cf" stroke-width="2"/>
+  <path d="M198 193C198 154 240 133 270 148C299 158 305 195 288 219C272 245 224 250 204 227Z" fill="#f8f6df" stroke="#dedcc5" stroke-width="2"/>
+  <g stroke="#d8d5b8" stroke-width="4" stroke-linecap="round" opacity=".8"><path d="M219 172l8 3M240 161l7 4M261 177l8 2M213 195l8 2M235 186l7 3M254 202l8 3M224 217l7 2M276 192l6 3M245 226l7 2"/></g>
+  <g fill="#6e926c" stroke="#577d55" stroke-width="2"><circle cx="329" cy="159" r="22"/><circle cx="358" cy="169" r="25"/><circle cx="342" cy="196" r="24"/><circle cx="385" cy="201" r="25"/><circle cx="369" cy="226" r="22"/></g>
+  <g stroke="#aec298" stroke-width="3" stroke-linecap="round"><path d="M326 150l9 19M355 159l6 20M337 186l10 16M380 193l10 18M365 218l7 16"/></g>
+  <g fill="#d68e55"><ellipse cx="374" cy="265" rx="15" ry="25" transform="rotate(30 374 265)"/><ellipse cx="344" cy="285" rx="15" ry="26" transform="rotate(43 344 285)"/><ellipse cx="380" cy="300" rx="14" ry="23" transform="rotate(-22 380 300)"/></g>
+  <path d="M202 280C195 260 218 235 243 239C266 226 294 241 301 262C321 280 305 310 282 319C262 338 232 321 219 313C201 311 193 295 202 280Z" fill="#fffdf4" stroke="#e6e2c8" stroke-width="2"/>
+  <circle cx="253" cy="277" r="28" fill="#e9be61"/>
+  <circle cx="246" cy="269" r="9" fill="#f4d584" opacity=".8"/>
+  <g stroke="#83917b" stroke-width="7" fill="none" stroke-linecap="round"><path d="M94 141V322M79 141V179Q94 195 109 179V141M94 141V184M496 141V322M496 141Q518 183 496 221"/></g>
+  <text x="300" y="407" text-anchor="middle" fill="#5f7159" font-family="Arial,sans-serif" font-size="12" letter-spacing="1">ILLUSTRATED DIARY RECORD · NO NUTRITION ANALYSIS</text>
+</svg>

@@ -1,0 +1,30 @@
+# Raise Your Nightingale — two-minute recording script
+
+This is a local prototype walkthrough, not a clinical-results video. Keep the **SIMULATION** banner visible. All people, plans, records, images, dates and actions are fictional.
+
+Before recording: run `npm start`, open `http://127.0.0.1:4173`, and reload to start at Day 0. The interface and narration below are in English. Start with sound off, then demonstrate the volume control and sound toggle deliberately. Capture browser audio only if the recording tool supports it. No camera access or external account is needed.
+
+| Time | Screen actions | Suggested English voiceover |
+| --- | --- | --- |
+| 0:00–0:10 | Show **My bird**, the original pixel bird standing in open space, Mei’s profile and the simulation banner. | “Meet Raise Your Nightingale: a small companion for everyday chronic care. Mei is fictional, and everything you see is a local demonstration.” |
+| 0:10–0:22 | Open **Bird calls**, set **Volume limit** around 30% and choose **Turn on**. The panel stays open and shows the selected recording playing. Choose **Start demo**; show the three large **Medication**, **Meal** and **Glucose** icons. | “Mei and her clinician have a fictional care plan. This clock advances whole demo days. Its optional nightjar calls are local cues, with no real reminders sent.” |
+| 0:22–0:42 | Choose **Medication** and let the bird eat one worm. Choose **Glucose** → **Save sample record**, showing the fictional **128 mg/dL**. Choose **Meal** → **Save sample record** as the third record. Let its smile, all-three-complete wing flap and earned dance finish. Briefly open **Our diary**. | “Medication earns a worm; a meal record earns a smile. Complete today's three activities, and your bird flaps happily before its milestone dance. These are sample illustrations, with no medical interpretation or food grading.” |
+| 0:42–0:57 | Choose **Next day** to reach Day 2. Record **Medication**, **Meal** and **Glucose**, saving both samples. The sixth record earns the concert. In **Bird calls**, show playback status and choose **Turn off** during the concert. Use short cuts between records. | “The sixth record earns a tiny concert. You control the sound, including an immediate mute. This growth is playful companionship, never a health score.” |
+| 0:57–1:10 | Choose **Next day** twice to reach Day 4, leaving Day 3 unfinished. Show overdue daily records, then open **Care team** and A01’s daily-plan follow-up area. | “Missed check-ins remain visible for human follow-up. Nothing is erased or treated as verified adherence. Routine visits and tests are separate from this eye-screening referral.” |
+| 1:10–1:31 | For A01: simulate result notification → open **Care journey** → acknowledge → coordinator records referral acceptance → patient chooses the Day 6 slot. Use short cuts between the role views. | “A screening result needs a clear hand-off. Mei acknowledges the next step, a coordinator records referral acceptance, and Mei chooses a fictional appointment. Booking alone does not close the care episode.” |
+| 1:31–1:53 | In **Care team**, show visit record disabled before its date. Advance twice to Day 6. Add the mock visit/test record, clinical review and next follow-up plan. Close the episode. | “On the appointment day, the demo team records the visit, clinical review and next plan. Closure requires all three. Daily self-reports cannot supply this evidence.” |
+| 1:53–2:00 | Show A01’s closed episode and next follow-up, then the source/limits section in **Demo notes**. | “One episode closes; ongoing care continues. Clinical benefit and local suitability still need validation.” |
+
+Recording notes:
+
+- The Day 3 routine diabetes visit in the daily plan is separate from the eye-screening appointment booked for Day 6 in this sequence. Leave the routine test/visit self-report buttons untouched so the third and sixth records match the performance sequence above.
+- Allow the earned performance to finish for the bird’s smug expression. A dance lasts about three seconds; an enabled concert uses the 9.7-second selected recording. The first growth change appears after two self-reported activities.
+- There is no free-play performance menu. The third record triggers dancing and the sixth singing; these milestones repeat. Medication triggers one-worm feeding, a meal triggers a smile, and all three activities completed today trigger a wing flap. These reactions finish before any milestone performance; do not click away during the sequence.
+- Credit the selected recording in the final video: chiuluan / iNaturalist sound 1782538, CC BY 4.0, excerpted, volume adjusted, converted to WAV, short fades. Include source/license links in the accompanying description. See audio-attribution.md.
+- Reminder audio is local playback from the selected WAV, with no synthesized call or automatic repeating loop. The integrated clock uses due/overdue cues, and the sixth-record concert uses the full clip. Do not imply that the three task times each trigger a separate wall-clock alarm or successful delivery to a phone.
+- For an optional longer reminder demonstration, reset and leave a daily task occurrence unfinished. **Start demo** logs its first reminder; successive **Next day** actions produce the second, third and fourth attempts. The first three increase in volume within the chosen limit; the fourth adds the signature side-eye. Completing an occurrence starts the next occurrence's attempt count afresh. Keep narration explicit that these are whole-day simulations, not real notifications.
+- Role switches represent a demonstration, not authenticated patient or clinician accounts. Nobody is contacted, booked or assigned outside this browser tab.
+- The sample glucose value must remain labeled fictional. Do not narrate it as a measured patient value, a safe range, a diagnosis or an improvement.
+- End with a prototype/validation statement. Do not claim improved adherence, fewer missed appointments, clinical effectiveness or validation in the UAE.
+
+This document is a suggested recording sequence.
